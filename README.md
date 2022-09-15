@@ -1,7 +1,6 @@
-### Hi there 👋
+### 👋 Hi there! Im Shabana and ive recently graduated form the School of Code Bootcamp!
 
-<!--
-**shabana89/shabana89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
